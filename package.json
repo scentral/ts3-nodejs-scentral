@@ -1,6 +1,6 @@
 {
   "name": "ts3-nodejs-scentral",
-  "version": "3.4.1",
+  "version": "3.4.3",
   "description": "TeamSpeak Server Query API",
   "main": "lib/index.js",
   "homepage": "https://github.com/scentral/ts3-nodejs-scentral",
