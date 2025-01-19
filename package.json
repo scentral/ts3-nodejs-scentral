@@ -1,12 +1,12 @@
 {
-  "name": "ts3-nodejs-scentral",
+  "name": "ts3-nodejs-torchie",
   "version": "3.4.3",
   "description": "TeamSpeak Server Query API",
   "main": "lib/index.js",
-  "homepage": "https://github.com/scentral/ts3-nodejs-scentral",
+  "homepage": "https://github.com/scentral/ts3-nodejs-torchie",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scentral/ts3-nodejs-scentral.git"
+    "url": "git+https://github.com/scentral/ts3-nodejs-torchie.git"
   },
   "scripts": {
     "tslint": "tslint --project .",
@@ -25,7 +25,7 @@
     "query",
     "serverquery"
   ],
-  "author": "Multivitamin & Scentral & Racc",
+  "author": "Multivitamin & torchie & Racc",
   "license": "MIT",
   "devDependencies": {
     "@types/buffer-crc32": "^0.2.0",
